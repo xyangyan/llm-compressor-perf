@@ -1,1 +1,2 @@
 # xSpeed
+Friendly acceleration tool 
